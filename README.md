@@ -15,9 +15,15 @@ Project created to practice Playwright skills.
 
 ```
 npm install
+npx playwright install
 ```
 
 ### Executing tests and updating snapshots
+
+```
+cd vite-project
+npm run dev     
+```
 
 ```
 npx playwright test
